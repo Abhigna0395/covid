@@ -1,2 +1,1 @@
-# Basic-Covid-19-risk-prediction-using-html
-It's a basic  code for the covid 19 risk prediction if the age, blood group and symptoms are given its show the risk level and vaccines to use and its side effects accordingly  its also gives the previous data in the graphical way
+This is a covid-19 analysis project which gives disease affect rate, precautions and medicine recommendations based on patient's age group, symptoms . Also graphs are given based on vaccines, symptoms, vaccine, affected organ etc based on previously registered cases.
